@@ -1,3 +1,4 @@
 pip install mpmath
 pip install cython
-10 line delete "import paq" for txt compress about 99%
+pip install paq
+
